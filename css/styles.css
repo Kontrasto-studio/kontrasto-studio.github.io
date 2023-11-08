@@ -1,8 +1,20 @@
+@font-face {
+  font-family: rubik;
+  src: url('../fonts/Rubik-Regular.ttf');
+  font-style: normal;
+}
+
+@font-face {
+  font-family: rubik;
+  src: url('../fonts/Rubik-Italic.ttf');
+  font-style: italic;
+}
+
 .center {
   margin: auto;
   display: table;
 }
 
 body {
-  font-family: "Rubik", sans-serif;
+  font-family: rubik, sans-serif;
 }
