@@ -19,3 +19,7 @@ body {
   font-family: rubik, sans-serif;
   background-color: #F0F0F0;
 }
+
+.italic {
+  font-style: italic;
+}
